@@ -1,0 +1,1 @@
+/home/radix/backup/Int/c/Synchronization/zbuild/CMakeFiles/Sync.dir

@@ -1,0 +1,4 @@
+FILE(GLOB SRC_FILES 
+	${DIR_SRC}/*.h
+	${DIR_SRC}/*.c
+)

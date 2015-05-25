@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/Sync.dir/home/radix/backup/Int/c/Synchronization/src/main.c.o  -o Sync -rdynamic -lpthread 
